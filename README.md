@@ -1,2 +1,2 @@
 # sc_302_documentacion
-Laboratiorio 1 Documentación Software
+Laboratorio 1 Documentación Software
